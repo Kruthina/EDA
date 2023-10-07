@@ -1,1 +1,2 @@
-# EDA
+# Exploratory data analysis lab
+
